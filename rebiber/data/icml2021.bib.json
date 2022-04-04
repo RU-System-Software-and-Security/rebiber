@@ -240,7 +240,7 @@
     "@inproceedings{DBLP:conf/icml/0001RGBWR21,\n",
     "  author    = {Ben Chamberlain and\n",
     "               James Rowbottom and\n",
-    "               Maria Gorinova and\n",
+    "               Maria I. Gorinova and\n",
     "               Michael M. Bronstein and\n",
     "               Stefan Webb and\n",
     "               Emanuele Rossi},\n",
@@ -255,7 +255,7 @@
     "  publisher = {{PMLR}},\n",
     "  year      = {2021},\n",
     "  url       = {http://proceedings.mlr.press/v139/chamberlain21a.html},\n",
-    "  timestamp = {Wed, 25 Aug 2021 01:00:00 +0200},\n",
+    "  timestamp = {Mon, 14 Feb 2022 00:00:00 +0100},\n",
     "  biburl    = {https://dblp.org/rec/conf/icml/0001RGBWR21.bib},\n",
     "  bibsource = {dblp computer science bibliography, https://dblp.org}\n",
     "}\n"
@@ -609,7 +609,7 @@
     "  publisher = {{PMLR}},\n",
     "  year      = {2021},\n",
     "  url       = {http://proceedings.mlr.press/v139/liu21ae.html},\n",
-    "  timestamp = {Wed, 25 Aug 2021 01:00:00 +0200},\n",
+    "  timestamp = {Mon, 28 Feb 2022 00:00:00 +0100},\n",
     "  biburl    = {https://dblp.org/rec/conf/icml/0002ZCCL21.bib},\n",
     "  bibsource = {dblp computer science bibliography, https://dblp.org}\n",
     "}\n"
@@ -1378,7 +1378,7 @@
     "  publisher = {{PMLR}},\n",
     "  year      = {2021},\n",
     "  url       = {http://proceedings.mlr.press/v139/alieva21a.html},\n",
-    "  timestamp = {Wed, 25 Aug 2021 01:00:00 +0200},\n",
+    "  timestamp = {Mon, 03 Jan 2022 00:00:00 +0100},\n",
     "  biburl    = {https://dblp.org/rec/conf/icml/AlievaCD21.bib},\n",
     "  bibsource = {dblp computer science bibliography, https://dblp.org}\n",
     "}\n"
@@ -1920,7 +1920,7 @@
     "  publisher = {{PMLR}},\n",
     "  year      = {2021},\n",
     "  url       = {http://proceedings.mlr.press/v139/axiotis21a.html},\n",
-    "  timestamp = {Wed, 25 Aug 2021 01:00:00 +0200},\n",
+    "  timestamp = {Mon, 03 Jan 2022 00:00:00 +0100},\n",
     "  biburl    = {https://dblp.org/rec/conf/icml/AxiotisK0SV21.bib},\n",
     "  bibsource = {dblp computer science bibliography, https://dblp.org}\n",
     "}\n"
@@ -2065,7 +2065,7 @@
     "  publisher = {{PMLR}},\n",
     "  year      = {2021},\n",
     "  url       = {http://proceedings.mlr.press/v139/badrinath21a.html},\n",
-    "  timestamp = {Wed, 25 Aug 2021 01:00:00 +0200},\n",
+    "  timestamp = {Wed, 23 Feb 2022 00:00:00 +0100},\n",
     "  biburl    = {https://dblp.org/rec/conf/icml/BadrinathK21.bib},\n",
     "  bibsource = {dblp computer science bibliography, https://dblp.org}\n",
     "}\n"
@@ -4129,7 +4129,7 @@
     "  publisher = {{PMLR}},\n",
     "  year      = {2021},\n",
     "  url       = {http://proceedings.mlr.press/v139/chen21v.html},\n",
-    "  timestamp = {Wed, 25 Aug 2021 01:00:00 +0200},\n",
+    "  timestamp = {Tue, 30 Nov 2021 00:00:00 +0100},\n",
     "  biburl    = {https://dblp.org/rec/conf/icml/Chen0HD21.bib},\n",
     "  bibsource = {dblp computer science bibliography, https://dblp.org}\n",
     "}\n"
@@ -4480,7 +4480,7 @@
     "  publisher = {{PMLR}},\n",
     "  year      = {2021},\n",
     "  url       = {http://proceedings.mlr.press/v139/chen21q.html},\n",
-    "  timestamp = {Wed, 25 Aug 2021 01:00:00 +0200},\n",
+    "  timestamp = {Tue, 16 Nov 2021 00:00:00 +0100},\n",
     "  biburl    = {https://dblp.org/rec/conf/icml/ChenSZZ21.bib},\n",
     "  bibsource = {dblp computer science bibliography, https://dblp.org}\n",
     "}\n"
@@ -5666,7 +5666,7 @@
     "  publisher = {{PMLR}},\n",
     "  year      = {2021},\n",
     "  url       = {http://proceedings.mlr.press/v139/cutkosky21a.html},\n",
-    "  timestamp = {Wed, 25 Aug 2021 01:00:00 +0200},\n",
+    "  timestamp = {Mon, 03 Jan 2022 00:00:00 +0100},\n",
     "  biburl    = {https://dblp.org/rec/conf/icml/CutkoskyDDGPP21.bib},\n",
     "  bibsource = {dblp computer science bibliography, https://dblp.org}\n",
     "}\n"
@@ -6167,7 +6167,7 @@
     "               Adam Hesterberg and\n",
     "               Frederic Koehler and\n",
     "               Jayson Lynch and\n",
-    "               John Urschel},\n",
+    "               John C. Urschel},\n",
     "  editor    = {Marina Meila and\n",
     "               Tong Zhang},\n",
     "  title     = {Multidimensional Scaling: Approximation and Complexity},\n",
@@ -6179,7 +6179,7 @@
     "  publisher = {{PMLR}},\n",
     "  year      = {2021},\n",
     "  url       = {http://proceedings.mlr.press/v139/demaine21a.html},\n",
-    "  timestamp = {Wed, 25 Aug 2021 01:00:00 +0200},\n",
+    "  timestamp = {Tue, 01 Feb 2022 00:00:00 +0100},\n",
     "  biburl    = {https://dblp.org/rec/conf/icml/DemaineHKLU21.bib},\n",
     "  bibsource = {dblp computer science bibliography, https://dblp.org}\n",
     "}\n"
@@ -7040,7 +7040,7 @@
     "  publisher = {{PMLR}},\n",
     "  year      = {2021},\n",
     "  url       = {http://proceedings.mlr.press/v139/emami21a.html},\n",
-    "  timestamp = {Wed, 03 Nov 2021 00:00:00 +0100},\n",
+    "  timestamp = {Mon, 03 Jan 2022 00:00:00 +0100},\n",
     "  biburl    = {https://dblp.org/rec/conf/icml/EmamiHRR21.bib},\n",
     "  bibsource = {dblp computer science bibliography, https://dblp.org}\n",
     "}\n"
@@ -7249,7 +7249,7 @@
     "  publisher = {{PMLR}},\n",
     "  year      = {2021},\n",
     "  url       = {http://proceedings.mlr.press/v139/fan21a.html},\n",
-    "  timestamp = {Wed, 25 Aug 2021 01:00:00 +0200},\n",
+    "  timestamp = {Tue, 25 Jan 2022 00:00:00 +0100},\n",
     "  biburl    = {https://dblp.org/rec/conf/icml/FanLLS21.bib},\n",
     "  bibsource = {dblp computer science bibliography, https://dblp.org}\n",
     "}\n"
@@ -7619,7 +7619,7 @@
     "  publisher = {{PMLR}},\n",
     "  year      = {2021},\n",
     "  url       = {http://proceedings.mlr.press/v139/feng21d.html},\n",
-    "  timestamp = {Wed, 25 Aug 2021 01:00:00 +0200},\n",
+    "  timestamp = {Mon, 03 Jan 2022 00:00:00 +0100},\n",
     "  biburl    = {https://dblp.org/rec/conf/icml/FengSL0X00S21.bib},\n",
     "  bibsource = {dblp computer science bibliography, https://dblp.org}\n",
     "}\n"
@@ -7928,7 +7928,7 @@
     "  publisher = {{PMLR}},\n",
     "  year      = {2021},\n",
     "  url       = {http://proceedings.mlr.press/v139/fotakis21a.html},\n",
-    "  timestamp = {Wed, 25 Aug 2021 01:00:00 +0200},\n",
+    "  timestamp = {Thu, 24 Mar 2022 00:00:00 +0100},\n",
     "  biburl    = {https://dblp.org/rec/conf/icml/FotakisPS21.bib},\n",
     "  bibsource = {dblp computer science bibliography, https://dblp.org}\n",
     "}\n"
@@ -9046,7 +9046,7 @@
     "  publisher = {{PMLR}},\n",
     "  year      = {2021},\n",
     "  url       = {http://proceedings.mlr.press/v139/guo21c.html},\n",
-    "  timestamp = {Wed, 25 Aug 2021 01:00:00 +0200},\n",
+    "  timestamp = {Thu, 06 Jan 2022 00:00:00 +0100},\n",
     "  biburl    = {https://dblp.org/rec/conf/icml/GuoZF021.bib},\n",
     "  bibsource = {dblp computer science bibliography, https://dblp.org}\n",
     "}\n"
@@ -11839,7 +11839,7 @@
   "statisticalestimationfromdependentdata": [
     "\n",
     "@inproceedings{DBLP:conf/icml/KandirosDDGD21,\n",
-    "  author    = {Vardis Kandiros and\n",
+    "  author    = {Anthimos Vardis Kandiros and\n",
     "               Yuval Dagan and\n",
     "               Nishanth Dikkala and\n",
     "               Surbhi Goel and\n",
@@ -11855,7 +11855,7 @@
     "  publisher = {{PMLR}},\n",
     "  year      = {2021},\n",
     "  url       = {http://proceedings.mlr.press/v139/kandiros21a.html},\n",
-    "  timestamp = {Wed, 25 Aug 2021 01:00:00 +0200},\n",
+    "  timestamp = {Sat, 13 Nov 2021 00:00:00 +0100},\n",
     "  biburl    = {https://dblp.org/rec/conf/icml/KandirosDDGD21.bib},\n",
     "  bibsource = {dblp computer science bibliography, https://dblp.org}\n",
     "}\n"
@@ -12878,7 +12878,7 @@
     "               Egor Shulgin and\n",
     "               Peter Richt{\\'{a}}rik and\n",
     "               Alexander Rogozin and\n",
-    "               Alexander Gasnikov},\n",
+    "               Alexander V. Gasnikov},\n",
     "  editor    = {Marina Meila and\n",
     "               Tong Zhang},\n",
     "  title     = {{ADOM:} Accelerated Decentralized Optimization Method for Time-Varying\n",
@@ -12891,7 +12891,7 @@
     "  publisher = {{PMLR}},\n",
     "  year      = {2021},\n",
     "  url       = {http://proceedings.mlr.press/v139/kovalev21a.html},\n",
-    "  timestamp = {Wed, 25 Aug 2021 01:00:00 +0200},\n",
+    "  timestamp = {Mon, 29 Nov 2021 00:00:00 +0100},\n",
     "  biburl    = {https://dblp.org/rec/conf/icml/KovalevSRRG21.bib},\n",
     "  bibsource = {dblp computer science bibliography, https://dblp.org}\n",
     "}\n"
@@ -14164,7 +14164,7 @@
     "  publisher = {{PMLR}},\n",
     "  year      = {2021},\n",
     "  url       = {http://proceedings.mlr.press/v139/li21j.html},\n",
-    "  timestamp = {Wed, 25 Aug 2021 01:00:00 +0200},\n",
+    "  timestamp = {Fri, 25 Feb 2022 00:00:00 +0100},\n",
     "  biburl    = {https://dblp.org/rec/conf/icml/LiLSWW21.bib},\n",
     "  bibsource = {dblp computer science bibliography, https://dblp.org}\n",
     "}\n"
@@ -14468,7 +14468,7 @@
     "  publisher = {{PMLR}},\n",
     "  year      = {2021},\n",
     "  url       = {http://proceedings.mlr.press/v139/liang21b.html},\n",
-    "  timestamp = {Wed, 25 Aug 2021 01:00:00 +0200},\n",
+    "  timestamp = {Mon, 07 Mar 2022 00:00:00 +0100},\n",
     "  biburl    = {https://dblp.org/rec/conf/icml/LiangZWYKL21.bib},\n",
     "  bibsource = {dblp computer science bibliography, https://dblp.org}\n",
     "}\n"
@@ -14954,7 +14954,7 @@
     "  publisher = {{PMLR}},\n",
     "  year      = {2021},\n",
     "  url       = {http://proceedings.mlr.press/v139/liu21k.html},\n",
-    "  timestamp = {Wed, 01 Sep 2021 01:00:00 +0200},\n",
+    "  timestamp = {Wed, 23 Feb 2022 00:00:00 +0100},\n",
     "  biburl    = {https://dblp.org/rec/conf/icml/LiuJ0LLW0T21.bib},\n",
     "  bibsource = {dblp computer science bibliography, https://dblp.org}\n",
     "}\n"
@@ -15077,7 +15077,7 @@
     "  publisher = {{PMLR}},\n",
     "  year      = {2021},\n",
     "  url       = {http://proceedings.mlr.press/v139/liu21o.html},\n",
-    "  timestamp = {Tue, 05 Oct 2021 01:00:00 +0200},\n",
+    "  timestamp = {Fri, 21 Jan 2022 00:00:00 +0100},\n",
     "  biburl    = {https://dblp.org/rec/conf/icml/LiuLYZZ21.bib},\n",
     "  bibsource = {dblp computer science bibliography, https://dblp.org}\n",
     "}\n"
@@ -16687,7 +16687,7 @@
     "  publisher = {{PMLR}},\n",
     "  year      = {2021},\n",
     "  url       = {http://proceedings.mlr.press/v139/mguni21a.html},\n",
-    "  timestamp = {Tue, 07 Sep 2021 01:00:00 +0200},\n",
+    "  timestamp = {Fri, 19 Nov 2021 00:00:00 +0100},\n",
     "  biburl    = {https://dblp.org/rec/conf/icml/MguniWDYWLWJW21.bib},\n",
     "  bibsource = {dblp computer science bibliography, https://dblp.org}\n",
     "}\n"
@@ -16713,7 +16713,7 @@
     "  publisher = {{PMLR}},\n",
     "  year      = {2021},\n",
     "  url       = {http://proceedings.mlr.press/v139/miao21a.html},\n",
-    "  timestamp = {Wed, 25 Aug 2021 01:00:00 +0200},\n",
+    "  timestamp = {Thu, 09 Dec 2021 00:00:00 +0100},\n",
     "  biburl    = {https://dblp.org/rec/conf/icml/MiaoLLCMWX21.bib},\n",
     "  bibsource = {dblp computer science bibliography, https://dblp.org}\n",
     "}\n"
@@ -17705,7 +17705,7 @@
     "  publisher = {{PMLR}},\n",
     "  year      = {2021},\n",
     "  url       = {http://proceedings.mlr.press/v139/perez-nieves21a.html},\n",
-    "  timestamp = {Wed, 25 Aug 2021 01:00:00 +0200},\n",
+    "  timestamp = {Fri, 19 Nov 2021 00:00:00 +0100},\n",
     "  biburl    = {https://dblp.org/rec/conf/icml/NievesYSMWW21.bib},\n",
     "  bibsource = {dblp computer science bibliography, https://dblp.org}\n",
     "}\n"
@@ -18231,7 +18231,7 @@
     "  author    = {Yookoon Park and\n",
     "               Sangho Lee and\n",
     "               Gunhee Kim and\n",
-    "               David Blei},\n",
+    "               David M. Blei},\n",
     "  editor    = {Marina Meila and\n",
     "               Tong Zhang},\n",
     "  title     = {Unsupervised Representation Learning via Neural Activation Coding},\n",
@@ -18243,7 +18243,7 @@
     "  publisher = {{PMLR}},\n",
     "  year      = {2021},\n",
     "  url       = {http://proceedings.mlr.press/v139/park21b.html},\n",
-    "  timestamp = {Wed, 25 Aug 2021 01:00:00 +0200},\n",
+    "  timestamp = {Mon, 13 Dec 2021 00:00:00 +0100},\n",
     "  biburl    = {https://dblp.org/rec/conf/icml/ParkLKB21.bib},\n",
     "  bibsource = {dblp computer science bibliography, https://dblp.org}\n",
     "}\n"
@@ -18825,7 +18825,7 @@
     "\n",
     "@inproceedings{DBLP:conf/icml/QiaoSZ21,\n",
     "  author    = {Gang Qiao and\n",
-    "               Weijie Su and\n",
+    "               Weijie J. Su and\n",
     "               Li Zhang},\n",
     "  editor    = {Marina Meila and\n",
     "               Tong Zhang},\n",
@@ -18838,7 +18838,7 @@
     "  publisher = {{PMLR}},\n",
     "  year      = {2021},\n",
     "  url       = {http://proceedings.mlr.press/v139/qiao21b.html},\n",
-    "  timestamp = {Wed, 25 Aug 2021 01:00:00 +0200},\n",
+    "  timestamp = {Fri, 28 Jan 2022 00:00:00 +0100},\n",
     "  biburl    = {https://dblp.org/rec/conf/icml/QiaoSZ21.bib},\n",
     "  bibsource = {dblp computer science bibliography, https://dblp.org}\n",
     "}\n"
@@ -21426,7 +21426,7 @@
     "  publisher = {{PMLR}},\n",
     "  year      = {2021},\n",
     "  url       = {http://proceedings.mlr.press/v139/sun21b.html},\n",
-    "  timestamp = {Wed, 25 Aug 2021 01:00:00 +0200},\n",
+    "  timestamp = {Wed, 01 Dec 2021 00:00:00 +0100},\n",
     "  biburl    = {https://dblp.org/rec/conf/icml/SunJXSYWL21.bib},\n",
     "  bibsource = {dblp computer science bibliography, https://dblp.org}\n",
     "}\n"
@@ -21972,7 +21972,7 @@
     "  publisher = {{PMLR}},\n",
     "  year      = {2021},\n",
     "  url       = {http://proceedings.mlr.press/v139/tay21b.html},\n",
-    "  timestamp = {Wed, 25 Aug 2021 01:00:00 +0200},\n",
+    "  timestamp = {Thu, 02 Dec 2021 00:00:00 +0100},\n",
     "  biburl    = {https://dblp.org/rec/conf/icml/Tay0AGP0BJM21.bib},\n",
     "  bibsource = {dblp computer science bibliography, https://dblp.org}\n",
     "}\n"
@@ -22945,7 +22945,7 @@
     "  publisher = {{PMLR}},\n",
     "  year      = {2021},\n",
     "  url       = {http://proceedings.mlr.press/v139/wang21ad.html},\n",
-    "  timestamp = {Wed, 25 Aug 2021 01:00:00 +0200},\n",
+    "  timestamp = {Tue, 08 Mar 2022 00:00:00 +0100},\n",
     "  biburl    = {https://dblp.org/rec/conf/icml/Wang0L21.bib},\n",
     "  bibsource = {dblp computer science bibliography, https://dblp.org}\n",
     "}\n"
@@ -23123,7 +23123,7 @@
     "  publisher = {{PMLR}},\n",
     "  year      = {2021},\n",
     "  url       = {http://proceedings.mlr.press/v139/wang21k.html},\n",
-    "  timestamp = {Wed, 25 Aug 2021 01:00:00 +0200},\n",
+    "  timestamp = {Tue, 22 Mar 2022 00:00:00 +0100},\n",
     "  biburl    = {https://dblp.org/rec/conf/icml/WangH21.bib},\n",
     "  bibsource = {dblp computer science bibliography, https://dblp.org}\n",
     "}\n"
